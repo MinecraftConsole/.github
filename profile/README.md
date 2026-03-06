@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Minecraft Legacy Edition" width="560" />
+<img src="../assets/logo.png" alt="Minecraft Legacy Edition" width="560" />
 
 <br/>
 
@@ -26,9 +26,8 @@ We maintain a curated index of repositories spanning old editions, fan-made tool
 
 | Repo | Description |
 |------|-------------|
+| [**MinecraftLegacy**](https://github.com/MinecraftConsole/MinecraftLegacy) | Source code for [minecraftlegacy.com](https://minecraftlegacy.com) |
 | [**json**](https://github.com/MinecraftConsole/json) | Project registry - the JSON data that powers the site's repo list |
-
-> More repos coming soon - the website source code will be open-sourced shortly.
 
 ## 🔍 How It Works
 
@@ -42,7 +41,7 @@ We welcome contributions! Whether it's submitting a legacy project to the index,
 
 1. **Submit a project** → [Open an issue](https://github.com/MinecraftConsole/json/issues/new?template=project-request.yml) on the json repo
 2. **Report a bug** → [Open an issue](https://github.com/MinecraftConsole/json/issues/new?template=bug-report.yml)
-3. **Contribute code** → More repos will be open-sourced soon - stay tuned!
+3. **Contribute code** → Fork the [MinecraftLegacy](https://github.com/MinecraftConsole/MinecraftLegacy) repo and open a PR
 
 <div align="center">
 
@@ -50,6 +49,6 @@ We welcome contributions! Whether it's submitting a legacy project to the index,
 
 <sub>Not affiliated with Mojang AB or Microsoft. "Minecraft" is a trademark of Mojang Synergies AB.</sub>
 
-<img src="./assets/steveandalex.png" alt="Steve and Alex" width="120" />
+<img src="../assets/steveandalex.png" alt="Steve and Alex" width="120" />
 
 </div>
